@@ -1,0 +1,12 @@
+C:\Users\anhnb\source\repos\Assignment-7\Assignment-7\bin\Debug\Assignment-7.exe.config
+C:\Users\anhnb\source\repos\Assignment-7\Assignment-7\bin\Debug\Assignment-7.exe
+C:\Users\anhnb\source\repos\Assignment-7\Assignment-7\bin\Debug\Assignment-7.pdb
+C:\Users\anhnb\source\repos\Assignment-7\Assignment-7\obj\Debug\Assignment-7.csprojAssemblyReference.cache
+C:\Users\anhnb\source\repos\Assignment-7\Assignment-7\obj\Debug\Assignment_7.Properties.Resources.resources
+C:\Users\anhnb\source\repos\Assignment-7\Assignment-7\obj\Debug\Assignment-7.csproj.GenerateResource.cache
+C:\Users\anhnb\source\repos\Assignment-7\Assignment-7\obj\Debug\Assignment-7.csproj.CoreCompileInputs.cache
+C:\Users\anhnb\source\repos\Assignment-7\Assignment-7\obj\Debug\Assignment-7.exe
+C:\Users\anhnb\source\repos\Assignment-7\Assignment-7\obj\Debug\Assignment-7.pdb
+C:\Users\anhnb\source\repos\Assignment-7\Assignment-7\obj\Debug\Assignment_7.FrmMain.resources
+C:\Users\anhnb\source\repos\Assignment-7\Assignment-7\obj\Debug\Assignment_7.FrmProductList.resources
+C:\Users\anhnb\source\repos\Assignment-7\Assignment-7\obj\Debug\Assignment_7.FrmProductSelected.resources
